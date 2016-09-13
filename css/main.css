@@ -4,6 +4,14 @@
    Author's custom styles
    ========================================================================== */
 
+/* Reshape and remove bootstrap navbar's bottom-margin*/
+.navbar {
+	margin-bottom: 0px;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 /* Jumbotron class for background image and padding */
 .feature {
 	background-position: center center;
@@ -17,6 +25,7 @@
     padding-bottom: 300px;
 }
 
+/* Pad out feature text */
 .padded-text {
 	padding-top: 50px;
 	padding-bottom: 50px;
