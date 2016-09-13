@@ -4,6 +4,10 @@
    Author's custom styles
    ========================================================================== */
 
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
 /* Reshape and remove bootstrap navbar's bottom-margin*/
 .navbar {
 	margin-bottom: 0px;
